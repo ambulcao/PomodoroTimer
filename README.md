@@ -20,17 +20,21 @@
 
 
 <h2>Home screen</h2>
+<p>Home screen to check the minutes</p>
 
 <img src="./src/img/home_screen.jpg" alt="Home Screen"/>
 
 <h2>Setting screen</h2>
+<p>Screen for setting worked minutes and rest minutes</p>
 
 <img src="./src/img/setting_screen.jpg" alt="Setting Screen"/>
 
 <h2>Work screen</h2>
+<p>Screen that scrolls through the minutes at work</p>
 
 <img src="./src/img/work_screen.jpg" alt="Work Screen"/>
 
 <h2>Break screen</h2>
+<p>Screen that scrolls through the minutes of rest</p>
 
 <img src="./src/img/break_screen.jpg" alt="Break Screen"/>
