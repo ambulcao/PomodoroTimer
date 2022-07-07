@@ -16,7 +16,7 @@
 
 # Application in production at Vercel, link below.
 
-<h1><a href="https://pomodoro-timer-taupe.vercel.app/" alt="Application Pomodoro">🕒 Pomodoro Time 🕒</a></h1>
+<h1><a href="https://pomodoro-timer-taupe.vercel.app/" target="_blank" alt="Application Pomodoro">🕒 Pomodoro Time 🕒</a></h1>
 
 
 <h2>Home screen</h2>
