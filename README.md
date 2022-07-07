@@ -16,3 +16,21 @@
 
 # Application in production at Vercel, link below.
 
+<h1><a href="https://pomodoro-timer-taupe.vercel.app/" alt="Application Pomodoro"></h1>
+
+
+<h2>Home screen</h2>
+
+<img src="./src/img/home_screen.jpg" alt="Home Screen"/>
+
+<h2>Setting screen</h2>
+
+<img src="./src/img/setting_screen.jpg" alt="Setting Screen"/>
+
+<h2>Work screen</h2>
+
+<img src="./src/img/work_screen.jpg" alt="Work Screen"/>
+
+<h2>Break screen</h2>
+
+<img src="./src/img/break_screen.jpg" alt="Break Screen"/>
