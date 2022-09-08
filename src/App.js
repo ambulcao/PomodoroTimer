@@ -12,7 +12,7 @@ function App() {
 
   return (
     <main>
-      <h1>Poromodo</h1>
+      <h1>Pomodoro Timer</h1>
       <h3>Be productive the right way</h3>
       <SettingsContext.Provider value={{
         showSettings,
